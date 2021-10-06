@@ -1,0 +1,4 @@
+Aplikasi sudah berjalan dengan sangat lancar dan juga bisa melakukan
+pengambilan foto dan menghasilkan foto dengan sangat baik dan juga pada 
+pengambilan video sudah berhasil juga dan setelah diambil video tersebut dapat
+langsung diputar, dipercepat dan juga diberhentikan.
